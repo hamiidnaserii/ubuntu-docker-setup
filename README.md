@@ -6,7 +6,7 @@ A Bash script to automate the installation of Docker and Docker Compose on an Ub
 
 ### 1 - Download the Script
 ```bash
-wget https://raw.githubusercontent.com/hamiidnaserii/docker-installation-script/main/install_docker.sh
+wget https://raw.githubusercontent.com/hamiidnaserii/ubuntu-docker-setup/main/install_docker.sh
 ```
 ### 2 - Make the Script Executable
 ```bash
